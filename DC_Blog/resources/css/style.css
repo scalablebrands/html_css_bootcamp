@@ -1,0 +1,33 @@
+header {
+    padding: 20px 100px;
+    padding-left: 150px;
+    padding-bottom: 1in;
+    padding-right: 150px;
+}
+
+header > * {
+    display: inline-block;
+
+}
+
+ul.menu {
+    list-style: none;
+    padding: 0px;
+    font-size: 20px;
+}
+
+ul.menu li {
+    display: inline-block;
+    padding: 16px;
+    padding-bottom: -100px;
+}
+
+topnav {
+    float: left;
+
+}
+
+.topnav-right {
+    float: right;
+}
+
